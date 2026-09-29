@@ -18,6 +18,5 @@ A clean and simple 3-card responsive layout built using pure HTML5 and CSS3 (Fle
 git clone [https://github.com/hussainusmani258-spec/Student-Registration-Form.git](https://github.com/hussainusmani258-spec/Student-Registration-Form.git)
 ```
 
-Live Demos:
-* [Cards Demo](https://hussainusmani258-spec.github.io/Cards/)
-* [Cards2 Demo](https://hussainusmani258-spec.github.io/Cards2/)
+Live Demo: [https://hussainusmani258-spec.github.io/Cards2/](https://hussainusmani258-spec.github.io/Cards2/)
+
